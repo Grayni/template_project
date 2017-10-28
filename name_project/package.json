@@ -1,0 +1,58 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Grayni",
+  "license": "ISC",
+  "devDependencies": {
+    "bower": "^1.8.2",
+    "browser-sync": "^2.18.13",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-cache": "^0.4.6",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect-php": "^1.0.1",
+    "gulp-csscomb": "^3.0.8",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-htmllint": "0.0.12",
+    "gulp-imagemin": "^3.4.0",
+    "gulp-jshint": "^2.0.4",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-phplint": "^0.3.4",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.6.1",
+    "gulp-rev-append": "^0.1.8",
+    "gulp-rigger": "^0.5.8",
+    "gulp-sass": "^3.1.0",
+    "gulp-scss-lint": "^0.5.0",
+    "gulp-strip-code": "^0.1.4",
+    "gulp-strip-css-comments": "^1.2.0",
+    "gulp-uglifyjs": "^0.6.2",
+    "gulp-uncss": "^1.0.6",
+    "imagemin-jpeg-recompress": "^5.1.0",
+    "imagemin-mozjpeg": "^6.0.0",
+    "imagemin-pngquant": "^5.0.1",
+    "jshint": "^2.9.5",
+    "run-sequence": "^2.2.0",
+    "sass-lint": "^1.12.0",
+    "scss-lint": "0.0.0"
+  },
+  "dependencies": {
+    "clipboard": "^1.7.1",
+    "node-sass": "^4.5.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
