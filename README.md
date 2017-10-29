@@ -37,3 +37,13 @@
  - Go in local project and: **bower install**  
  - In bower.json write: Name and Description  
    **Note: default librarys: jQuery and bootsrap 4**  
+***
+
+# 5) for clone template and init project full:  
+ - Create folder with name of project  
+ - In this folder command: **git init**  
+ - git clone git@github.com:Grayni/template_project.git  
+ - **npm i**  
+ - Add name and description in bower.json and package.json  
+ - **bower install**  
+ - In gulpfile.js add name in localhost and create host with this name
