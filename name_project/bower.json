@@ -19,5 +19,6 @@
   "dependencies": {
     "jquery": "^3.2.1",
     "bootstrap": "v4.0.0-beta"
+    "fullpage.js": "fullpage#^2.9.5"
   }
 }
