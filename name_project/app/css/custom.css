@@ -1,0 +1,14 @@
+.icon-docs {
+  display: none;
+  cursor: pointer;
+}
+
+
+/*for fix window scrollbar*/
+/* uncss:ignore */
+@media screen and (min-width: 500px) { 
+  html {
+    margin-left: calc(100vw - 100%);
+    margin-right: 0;
+  }
+}
